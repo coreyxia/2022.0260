@@ -39,12 +39,12 @@ url = {https://github.com/INFORMSJoC/2022.0260},
     -  Unet_model.ipynb: methods for the unet model training to identify the select object with the ground truth/masks. The output would be binary object with removed background.
   - Sample Images:
     -  Woodlog/ contains 10% of the datasets used in the paper due to the limitation of the size of all files. Train folder contains image and label sub-folder with and small patches for model training. test folder contains small patches for prediction. raw data folder contains all original images. predicted folder contains the predicted images.
-  - Complete dataset in google drive: (https://drive.google.com/drive/folders/1nWVjByuTQbuWfbX6BUn9KAf4i_I3s83T?usp=drive_link)
+  - Complete dataset in google drive: (https://drive.google.com/drive/folders/1nWVjByuTQbuWfbX6BUn9KAf4i_I3s83T?usp=sharing)
 3. MUSIC:
   - Code:
     - MUSICCountLayers.m: used to implement the MUSIC algorithm and extract an estimate of layer counts.
     - binaryLogCount.m: provides the code to characterize and count the number of log cross-sections.
-  - Sample Images:
+  - Images:
     - MUSIC/logbinary: woodlog predicted iamges for counting the number of log cross-sections.
     - MUSIC/cardboard: cardboard predicted images for estimating the number of layer.
 4. comparison between UNET and other ML approaches:
