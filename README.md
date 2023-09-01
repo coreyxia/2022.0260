@@ -1,6 +1,6 @@
 [![INFORMS Journal on Computing Logo](https://INFORMSJoC.github.io/logos/INFORMS_Journal_on_Computing_Header.jpg)](https://pubsonline.informs.org/journal/ijoc)
 
-# Data and Code for the Paper ``A Deep Learning and Image Processing Pipeline for Object Characterization in Firm Operations''.
+# Data and Code for the Paper "A Deep Learning and Image Processing Pipeline for Object Characterization in Firm Operations".
 
 This archive is distributed in association with the [INFORMS Journal on Computing] under the [MIT License](LICENSE).
 
