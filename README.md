@@ -28,7 +28,7 @@ Below is the BibTex for citing this version of the repository.
 --------------------------------------------------------------------------
 ## Code and Datasets:
 
-1.Large Image to Small Batch
+1. Large Image to Small Batch
   - Code:
     -  Image_chunk_make.ipynb: The code is desigined for splitting the large images into smaller pathes to create larger training datasets.The output would be a bunch of patches with the size of 256 X 256.
   - Sample Images:
